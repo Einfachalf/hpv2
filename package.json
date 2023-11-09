@@ -1,18 +1,18 @@
 {
-  "name": "ts-next-tailwind-template",
+  "name": "Alex Tailwind Template,
   "version": "1.0.0",
   "private": "true",
   "description": "Ultimate Front-end Template made using NextJs, TailwindCSS, and Typescript",
   "author": {
-    "email": "crisemcr@gmail.com",
-    "name": "Cristian Crețu",
-    "url": "https://cretu.dev"
+    "email": "ailexgpt@gmail.com",
+    "name": "AilexGPT",
+    "url": "https://einfachalex.net"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cristicretu/ts-next-tailwind-template/issues"
+    "url": "https://github.com/proalf"
   },
-  "homepage": "https://template.cretu.dev",
+  "homepage": "https://einfachalex.net",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
